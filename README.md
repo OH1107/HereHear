@@ -69,7 +69,18 @@
   - UCC 제작
 
 ## 상세 개발 내용
-
+- Spring Boot 프레임워크를 사용한 RESTful API 개발
+  - 캘린더 및 회원 서비스 관련 API 개발
+- Refresh Token, Access Token 방식의 JWT 인증, 인가 구현
+  - Refresh Token의 경우 Redis 사용
+- EC2 서버에 Django, Spring Boot 서버 배포
+  - Django의 경우 Nginx, uWSGI 연동 배포
+- EC2 서버에 MySQL DB 구축 및 서버와 연동
+- Jenkins를 사용한 자동 배포 파이프라인 구축
+  - GitLab의 Master 브랜치에 이벤트 발생 시, 새로 build하고 배포하는 flow
+- 행렬분해를 통한 잠재요인 협업필터링의 추천 알고리즘 구현
+  - 사용자들이 좋아하는 도서에 대한 여러 잠재요인으로 분석
+  - 아직 특정 도서를 읽지 않은 경우 높은 평점을 부여할 것으로 추정되는 사용자에게 해당 도서 추천
 
 ## 개발 기간
 
