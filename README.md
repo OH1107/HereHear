@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/67505208/136942693-24a32523-d4ee-49b9-9e80-9944f8557131.png)
 
-- Google Play 등록 https://play.google.com/store/apps/details?id=com.ssafy.herehear  
+- Google Play 등록 ~~https://play.google.com/store/apps/details?id=com.ssafy.herehear~~ (EC2 인스턴스 만료로 인한 배포 중단)
 
 ![image](https://user-images.githubusercontent.com/67505208/136943366-e1fdc2f5-59ea-4b23-b793-305aa6989d85.png)
 
